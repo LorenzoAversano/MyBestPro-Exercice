@@ -1,0 +1,18 @@
+body{
+    background:#ccc;
+    color:#111;
+    font-family:Arial
+    font-size:13px;
+}
+#menu{margin:10px 15px;align:right;}
+
+ul li{
+    display:inline-block;
+    marign:0;
+}
+ul li a{
+    padding:5px;
+    color:#555;
+}
+
+#bold{font-width: bold;}

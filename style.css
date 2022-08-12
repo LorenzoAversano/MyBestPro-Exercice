@@ -5,11 +5,8 @@ body{
     font-size:13px;
 }
 
-#menu{margin:10px 15px;align:right;}
-
-ul li{
-    display:inline-block;
-    margin:0;
+#menu{
+    margin:10px 15px;
 }
 
 ul li a{
@@ -27,4 +24,13 @@ ul li a{
     color:#999;
     font-size:9px;
     font-style:underline;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.total_score{
+    text-align: center;
 }
